@@ -36,7 +36,7 @@ RIZ180 can accommodate either a compact flash or a disk-on-module (DOM). The con
 - Bill of Materials
 - Engineering changes for rev0 pc board
 
-![footprint error](Rev0/RIZ180_rev0_screw_up_shrink_DIP64_footprint.jpg)
+![footprint error](RIZ180_rev0_screw_up_shrink_DIP64_footprint.jpg)
 RIZ180 rev0 footprint error
 
 ### Software
