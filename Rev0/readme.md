@@ -36,6 +36,9 @@ RIZ180 can accommodate either a compact flash or a disk-on-module (DOM). The con
 - Bill of Materials
 - Engineering changes for rev0 pc board
 
+![footprint error](Rev0/RIZ180_rev0_screw_up_shrink_DIP64_footprint.jpg)
+RIZ180 rev0 footprint error
+
 ### Software
 - RIZMon is a simple monitor for RIZ180. The serial port setting for 12.288MHz clock is 38400 N81
 - CP/M2.2 for RIZ180. This is work in progress, the XMODEM is not working correctly.
