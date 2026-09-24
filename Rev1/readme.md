@@ -1,6 +1,4 @@
 # RIZ180 Rev1, A Simple Z180 SBC for RC2014
-Link to rev0 of Z180
-
 ### Introduction
 RIZ180 is named after the person who gave me six Z8018008PSC and a request to build a cheap RC2014-compatible SBC with through-hole components and no CPLD.
 
@@ -48,7 +46,7 @@ Z180 has 2 serial ports and a SPI port. Channel A of the serial port has handsha
 
 ### Manuals and Instructions
 - Pictorial assembly guide
-- Z80180 datasheet
+- [Z80180 datasheet](Manuals/z180_datasheet.pdf)
 
 ### ToDo
 SCMonitor
