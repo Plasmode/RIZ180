@@ -25,9 +25,9 @@ Z180 is so well integrated, it almost needs no glue logic, almost. Can't get aro
 Z180 has 2 serial ports and a SPI port. Channel A of the serial port has handshake signals. The handshakes have caused so many problems that I designed channel A specifically for CP2102 USB adapter which is inexpensive and have a proven handshake function.
 
 ### Design Information
-- Schematic ← this is same as rev0 schematic
-- Gerber photoplots
-- Bill of Materials
+- [Schematic](../Rev0/riz180_rev0_scm.pdf) ← this is same as rev0 schematic
+- [Gerber photoplots](riz180_gerber_rev1.zip)
+- [Bill of Materials](../Rev0/riz180_r0_bom.pdf) <- same as rev0 BOM
 
 ### Software
 - RIZMon is a simple monitor for RIZ180. The serial port setting for 18.432MHz clock is 57600 N81
