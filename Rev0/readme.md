@@ -1,6 +1,4 @@
 # RIZ180, A Simple Z180 for RC2014
-Link to rev1 of RIZ180 which corrected the shrink DIP64 footprint.
-
 ### Introduction
 Someone gave me six Z8018008PSC and a request to build a cheap RC2014-compatible SBC with through-hole components and no CPLD. Z180 is so well integrated that seems to be a reasonable request, but I encountered two challenges as I went down the design path:
 1. DIP64 is 70mil lead pitch rather than the standard 100mil pitch. I didn't want to solder it directly on newly developed pc board, but fortunately DIP64 socket with 70mil pitch is readily available on eBay and cheaply, except the order takes long time to arrive.
