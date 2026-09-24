@@ -45,7 +45,7 @@ Z180 has 2 serial ports and a SPI port. Channel A of the serial port has handsha
 - CPM3 banked BIOS source code, assembled with zmac
 
 ### Manuals and Instructions
-- Pictorial assembly guide
+- Pictorial [assembly guide](Manuals/Assembly_guide.md)
 - [Z80180 datasheet](Manuals/z180_datasheet.pdf)
 
 ### ToDo
