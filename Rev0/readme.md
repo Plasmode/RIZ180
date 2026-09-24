@@ -31,9 +31,9 @@ RIZ180 can accommodate either a compact flash or a disk-on-module (DOM). The con
 ![dom_cf_back](dom_left_vs_cf_right_solder_view.jpg)
 
 ### Design Information
-- Schematic
-- Gerber photoplots
-- Bill of Materials
+- [Schematic](riz180_rev0_scm.pdf)
+- [Gerber photoplots](riz180_rev0_gerber.zip)
+- [Bill of Materials](riz180_r0_bom.pdf)
 - Engineering changes for rev0 pc board
 
 ![footprint error](RIZ180_rev0_screw_up_shrink_DIP64_footprint.jpg)
